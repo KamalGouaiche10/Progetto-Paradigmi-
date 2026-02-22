@@ -18,10 +18,6 @@ Esecuzione
 ---------
 Dopo la build, avviare l'applicazione (se il packaging è configurato) o eseguire Main tramite l'IDE.
 
-Contribuire
-----------
-- Aprire una issue o inviare una pull request.
-- Mantenere lo stile Java del progetto e aggiungere test per nuove funzionalità.
 
 ## Autori
 - Gouaiche Kamal
